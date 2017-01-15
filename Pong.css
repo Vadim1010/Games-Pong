@@ -1,0 +1,49 @@
+body{
+    background: black;
+}
+button{
+    outline: none;
+    font-size: 20px;
+    position: absolute;
+    top: 25px;
+    left: 720px;
+    background: #000;
+    color: red;
+    border: 1px dotted red;
+    border-radius: 10%;
+    height: 35px;
+}
+.number{
+    position: absolute;
+    left: 620px;
+    color: red;
+    height: 60px;
+    width: 100px;
+
+
+}
+p{
+    margin: auto;
+    font-size: 50px;
+}
+#stop{
+    outline: none;
+    font-size: 50px;
+    height: 70px;
+    width: 170px;
+    position: absolute;
+    left: 650px;
+    top: 150px;
+    background: #000;
+    border: 2px dotted red;
+    border-radius: 10%;
+    color: red;
+}
+.help{
+    margin-top: 20px;
+    color: red;
+    width: 600px;
+}
+.help>p{
+    font-size: 20px;
+}
